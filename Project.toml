@@ -1,0 +1,11 @@
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DICOM = "a26e6606-dd52-5f6a-a97f-4f611373d757"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+ProgressBars = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
+RegisterCore = "67712758-55e7-5c3c-8e85-dda1d7758434"
+RegisterMismatch = "3c0dd727-6833-5f5d-a1e8-c0d421935c74"
+RegisterMismatchCuda = "ee0d8d85-fa18-576c-9601-66ebb12862d9"
+RegisterQD = "ac24ea0c-1830-11e9-18d4-81f172323054"
